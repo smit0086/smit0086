@@ -33,4 +33,8 @@
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-EA4235?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit0086&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit0086&layout=compact&theme=radical)]
+
+# 📞 Contact Me
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit0086/)
+[![Email](https://img.shields.io/badge/smit.patel@dal.ca-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto://smit.patel@dal.ca)
