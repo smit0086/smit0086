@@ -37,4 +37,4 @@
 
 # 📞 Contact Me
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit0086/)
-[![Email](https://img.shields.io/badge/smit.patel@dal.ca-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto://smit.patel@dal.ca)
+[![Email](https://img.shields.io/badge/smit.patel@dal.ca-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:smit.patel@dal.ca)
