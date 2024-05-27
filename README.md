@@ -4,8 +4,6 @@
 👩🏻‍🎓 Studying Master of Applied Computer Science at the Dalhousie University, Canada<br/>
 💭 Currently learning about cloud computing and cloud architectures!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=smit0086&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -37,7 +35,7 @@
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-EA4235?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit0086&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit0086&layout=compact&theme=radical)
 
 # 📞 Contact Me
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit0086/)
