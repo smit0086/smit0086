@@ -28,6 +28,8 @@
 ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/-csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Cloud
 ![Docker](https://img.shields.io/badge/docker-1C67ED?style=for-the-badge&logo=docker&logoColor=white)
